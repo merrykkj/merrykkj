@@ -21,15 +21,10 @@
 ### 📊 Tecnologias mais usadas:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merrykkj&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merrykkj&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=merrykkj&style=for-the-badge&color=purple" alt="Profile views" />
-</p>
-
----
 
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
