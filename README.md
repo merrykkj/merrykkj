@@ -26,5 +26,8 @@
 
 ---
 
-
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=merrykkj&style=for-the-badge&color=purple" alt="Profile views" />
+</p>
