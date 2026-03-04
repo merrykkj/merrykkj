@@ -45,8 +45,8 @@
 ---
 
 ## Education
-- Systems Development - SENAI (2024-2025)
-- Systems Development - FATEC (2026-2028)
+- Systems Analysis and Development (Technical Degree) - SENAI (2024-2025)
+- Systems Analysis and Development (Technology Degree) - FATEC (2026-2028)
 
 ---
 
