@@ -25,7 +25,7 @@
 ### Most used technologies:
 
 <p align="center">
-  <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=merrykkj&layout=compact&langs_count=15&hide_border=true&title_color=a3a2a0&text_color=FFF&bg_color=0d1117"
+  <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=merrykkj&layout=compact&langs_count=15&hide_border=true&title_color=a3a2a0&text_color=FFF&bg_color=default"
        alt="Functional way is the right way"
        style="margin-top:20px;"
        height="280px"
