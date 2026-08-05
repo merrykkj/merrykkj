@@ -58,10 +58,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://vpldev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-f549b2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/vitorialuc" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
