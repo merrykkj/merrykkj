@@ -49,11 +49,15 @@
 
 <div align="left">
 
-🔹 <b><a href="https://github.com/merrykkj/zelos">Zelos</a></b>  
+🌸 <b><a href="https://github.com/merrykkj/navi">Navi</a></b>  
+&nbsp;&nbsp;&nbsp;IoT smart parking monitoring system featuring responsive web dashboards and mobile app integration built with Next.js 14, React Native (Expo), Tailwind CSS, Shadcn UI, Axios, and Recharts.  
+
+<br />
+
+🌸 <b><a href="https://github.com/merrykkj/zelos">Zelos</a></b>  
 &nbsp;&nbsp;&nbsp;Full-stack ticketing system with JWT authentication, Active Directory, CRUD operations, Node.js, Next.js, MySQL, and Docker.  
 
 </div>
-
 
 ---
 
