@@ -45,6 +45,8 @@
        width="40%" />
 </p>
 
+---
+
 ## Featured Projects  
 
 <div align="left">
