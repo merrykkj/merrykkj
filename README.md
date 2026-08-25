@@ -62,7 +62,7 @@
 
 ---
 
-## 🐍 Contribuições
+## Contributions
 
 <div align="center">
   <picture>
