@@ -63,6 +63,11 @@
 </div>
 
 
+
+## Education
+- Systems Analysis and Development (Technology Degree) - FATEC (2026 - Present)
+- Systems Analysis and Development (Technical Degree) - SENAI (2024-2025)
+
 ---
 
 ## Contributions
@@ -74,13 +79,6 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/merrykkj/merrykkj/output/github-contribution-grid-snake.svg" width="95%"/>
   </picture>
 </div>
-
-
----
-
-## Education
-- Systems Analysis and Development (Technology Degree) - FATEC (2026 - Present)
-- Systems Analysis and Development (Technical Degree) - SENAI (2024-2025)
 
 ---
 <div align="center">
@@ -97,3 +95,4 @@
 </div>
 
 ---
+
