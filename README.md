@@ -38,9 +38,10 @@
 
 ### Most used technologies:
 
+
 <p align="center">
-  <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=merrykkj&layout=compact&langs_count=15&hide_border=true&title_color=000&text_color=000&bg_color=default"
-       alt="Functional way is the right way"
+  <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=merrykkj&layout=compact&langs_count=15&hide_border=true&title_color=F47DA5&text_color=FFFFFF&bg_color=101014"
+       alt="Most Used Languages"
        style="margin-top:20px;"
        height="280px"
        width="40%" />
@@ -72,13 +73,15 @@
 
 ## Contributions
 
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merrykkj/merrykkj/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/merrykkj/merrykkj/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/merrykkj/merrykkj/output/github-contribution-grid-snake.svg" width="95%"/>
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/merrykkj/merrykkj/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+    width="95%"
+  />
 </div>
+
 
 ---
 <div align="center">
